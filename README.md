@@ -1,2 +1,2 @@
 # documentServer
-playing around with docoment server in nodejs
+playing around with document server in nodejs
